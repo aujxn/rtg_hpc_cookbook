@@ -1,0 +1,6 @@
+[book]
+authors = ["Austen Nelson"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Research Training Group HPC Cookbook"
