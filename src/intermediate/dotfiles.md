@@ -34,7 +34,7 @@ Three of the most critical environment variables are:
 
 - `PATH` only binaries found in directories listed here are
 found by the shell when executing. To determine if a binary
-is in your path try `which <program_name>`
+is in your `PATH` try `which <program_name>`
 - `PYTHONPATH` tells python where to look for modules
 - `LD_LIBRARY_PATH` tells binaries and compilers where to
 find shared objects
